@@ -12,7 +12,7 @@ from Animal2 import Bat
 cow = Mammal("Cow")
 cow.eat()
 cow.walk()
-cow.fly() ❌ This will give error — correct, because cow cannot fly
+# cow.fly() ❌ This will give error — correct, because cow cannot fly
 
 bat = Bat("Bat")
 bat.eat()       # from Animal
