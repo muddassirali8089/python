@@ -9,7 +9,6 @@ class Car:
         self.forSale = forSale
         Car.carCount+=1
 
-
     def drive(self):
         print("you drive the car...")
     
