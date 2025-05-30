@@ -8,3 +8,7 @@ print(car1.model)
 print(car1.year)
 print(car1.color)
 print(car1.forSale)
+
+
+car1.drive()
+car1.stop()
