@@ -1,7 +1,4 @@
 
-
-
-
 class Library:
     def __init__(self , name):
         self.name = name
@@ -17,9 +14,6 @@ class Book:
     def __init__(self , name , author):
         self.name = name
         self.author = author
-
-
-
 
 book1 = Book("muddassir" , "programing fundametals")
 book2 = Book("book name" , "book title")
